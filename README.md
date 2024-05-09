@@ -1,2 +1,7 @@
 # NutriVision
-React Native and NodeJS app with a Firestore Database to build NutriVision, an app where users can upload pictures of plates of food, and get a full analysis using OpenAI's GPT-4 Vision Model. ChatGPT is also available as a ChatBot that can answer any questions nutrition and diet to help users craft their perfect diets.
+
+1. Download Expo Go from the app store and create an account
+2. Download this repository to VS Code
+3. Run "npm i" in the root directory and make sure all dependencies are installed
+4. Run "npx expo start" from root directory in terminal
+5. Open Expo Go and click into the application (shown in demo)
